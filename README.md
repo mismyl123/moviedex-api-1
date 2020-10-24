@@ -1,5 +1,5 @@
 # MOVIEDEX-API
-***by Richard Folea***
+***by Richard Folea***  Partnered with Michelle LaLonde 10/20/20
 ___
 ##### Example cURL:
 ```bash
